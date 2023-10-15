@@ -6,3 +6,4 @@
 # <img src="https://github.com/seheejang3305/-/assets/147888446/7bf0d3d9-4977-4c1f-8593-5668196fe965" width="200" height="300"/> <img src="https://github.com/seheejang3305/-/assets/147888446/9e9f1fe0-8649-4e2f-8a9b-8dd720b08668" width="200" height="300"/> <img src="https://github.com/seheejang3305/-/assets/147888446/65b71476-7922-4f90-8782-74a2bf0f9063" width="200" height="300"/>
 # <img src="https://github.com/seheejang3305/-/assets/147888446/ad716583-2d95-4738-8ffc-4cc8229dd9e4" width="400" height="300"/> <img src="https://github.com/seheejang3305/-/assets/147888446/657eafc3-4020-4d4f-a76e-96b877e74082" width="400" height="300"/>
 
+![KakaoTalk_20231016_002031002_05](https://github.com/seheejang3305/-/assets/127107475/f4357901-6c33-4227-8f2c-621e1c4d3dc6)
