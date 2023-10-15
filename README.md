@@ -8,7 +8,7 @@
 
 #<img scr ="https://github.com/seheejang3305/-/assets/127107475/503d1cd3-9192-43d5-8d3d-32eca02beeac" width="400" height="300"/> <img scr ="https://github.com/seheejang3305/-/assets/127107475/2fece80a-065b-4b5e-8d4c-4e445b409b3b" width="400" height="300"/>
 #<img scr ="https://github.com/seheejang3305/-/assets/127107475/6adbe34c-c6df-4ad6-a6a0-a98b62050d27" width="400" height="300"/> <img scr ="https://github.com/seheejang3305/-/assets/127107475/da73cd44-a5b9-494f-a367-bae5ed0c85bb" width="400" height="300"/>
-#<img scr ="https://github.com/seheejang3305/-/assets/127107475/da96f4c1-494b-458d-93ca-e374f36b5825" width="400" height="300"/> <img scr ="https://github.com/seheejang3305/-/assets/127107475/8270ef74-7671-4307-b6ec-4562804d9286 "width="300" height="400"/>
+#<img scr ="https://github.com/seheejang3305/-/assets/127107475/da96f4c1-494b-458d-93ca-e374f36b5825" width="400" height="300"/> <img scr ="https://github.com/seheejang3305/-/assets/127107475/8270ef74-7671-4307-b6ec-4562804d9286" width="300" height="400"/>
 
 
 
