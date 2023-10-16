@@ -1,0 +1,23 @@
+from collections import deque
+
+def find_min_rooms(sizes, room_size):
+    sizes.sort()  # 크기가 작은 순으로 정렬
+    rooms = deque()  # 방들을 나타내는 큐
+
+    for size in sizes:
+        allocated = False
+        for i in range(len(rooms)):
+            if rooms[i] + size <= room_size:
+                rooms[i] += size
+                allocated = True
+                break
+        if not allocated:
+            rooms.append(size)
+
+    return len(rooms)
+
+sizes = [4, 6, 3, 8, 2, 1, 5, 7]
+room_size = 11
+min_rooms = find_min_rooms(sizes, room_size)
+print("필요한 최소 방 개수:", min_rooms)
+
