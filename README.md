@@ -11,4 +11,5 @@
 # <img src ="https://github.com/seheejang3305/-/assets/127107475/da96f4c1-494b-458d-93ca-e374f36b5825" width="400" height="300"/> <img src ="https://github.com/seheejang3305/-/assets/127107475/8270ef74-7671-4307-b6ec-4562804d9286" width="300" height="400"/>
 
 
-
+코드 결과값 출력 사진
+# <img src="https://github.com/seheejang3305/-/assets/147888446/e8ff5fe7-1958-4dbe-b29e-ab5e9d1831f6" width="400" height="160"/>
